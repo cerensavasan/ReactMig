@@ -1,0 +1,5 @@
+/* Makes the color change over time */
+#triangle { transition: 1s; }
+
+/* Makes the color change upon hover */
+svg:hover #triangle { fill: orange; }
